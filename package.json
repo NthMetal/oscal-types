@@ -7,6 +7,9 @@
     "tsconfig.json",
     "oscal-types-tests.ts"
   ],
+  "scripts": {
+    "test": "echo 'Tests do not run';"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NthMetal/oscal-types.git"
