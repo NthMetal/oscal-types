@@ -1,6 +1,6 @@
 {
   "name": "oscal-types",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Typescript typings for OSCAL Data format. https://pages.nist.gov/OSCAL/",
   "files": [
     "index.d.ts",
