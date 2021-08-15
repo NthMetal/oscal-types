@@ -1,11 +1,11 @@
 {
   "name": "oscal-types",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Typescript typings for OSCAL Data format. https://pages.nist.gov/OSCAL/",
   "files": [
     "index.d.ts",
-    "tsconfig.json",
-    "oscal-types-tests.ts"
+    "LICENCE",
+    "README.md"
   ],
   "scripts": {
     "test": "echo 'Tests do not run';"
