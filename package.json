@@ -1,0 +1,20 @@
+{
+  "name": "oscal-types",
+  "version": "0.0.0",
+  "description": "Typescript typings for OSCAL Data format. https://pages.nist.gov/OSCAL/",
+  "files": [
+    "index.d.ts",
+    "tsconfig.json",
+    "oscal-types-tests.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NthMetal/oscal-types.git"
+  },
+  "author": "NthMetal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NthMetal/oscal-types/issues"
+  },
+  "homepage": "https://github.com/NthMetal/oscal-types#readme"
+}
